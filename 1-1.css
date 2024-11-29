@@ -1,0 +1,54 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+#p1 {
+    color: #FF0000;
+    display: inline-block;
+    background-color: #FFE8E8;
+    width: 330px;
+    height: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#p2 {
+    display: inline-block;
+    border: 2.5px solid pink;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: grey;
+}
+
+#p3 {
+    display: inline-block;
+    background-color: #FFE8E8;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#sale {
+    display: inline-block;
+    color: #FF0000;
+}
+
+#span2 {
+    padding-left: 180px;
+}
+
+#p4 {
+    display: inline-block;
+    color: #3538CD;
+    border: 2.5px solid #3538CD;
+    padding: 15px 50px 15px 90px;
+}
+
+#image1 {
+    width: 400px;
+}
